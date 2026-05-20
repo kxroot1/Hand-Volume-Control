@@ -28,7 +28,10 @@ You need to install the following dependencies:
 ```bash
 pip install opencv-python mediapipe pycaw numpy comtypes
 
-```markdown
+```
+
+
+markdown
 ## How it Works
 
 
@@ -51,6 +54,7 @@ The script processes frames from your webcam and looks for a hand skeleton.
 
 
 - **Dynamic Dimensions:** Automatically handles sudden camera frame-size switches to avoid step-mismatch assertion crashes.
+
 
 ## How to Run
 
